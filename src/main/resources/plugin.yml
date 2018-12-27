@@ -1,0 +1,6 @@
+name: UHC-Heads
+version: 1.0-SNAPSHOT
+author: ThatKawaiiSam
+website: MC-Market
+description: Simple UHC Heads plugin for Practice, UHC, and UHCMeetup.
+main: io.github.thatkawaiisam.uhcheads.UHCHeadsPlugin
